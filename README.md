@@ -1,5 +1,5 @@
 # Knowledge for everyone
 ## Contents
 
-**1. [javascript useful](src/useful-github.md)**
-> Some useful resources about javascript.
+**1. [useful repo github](src/useful-github.md)**
+> Some useful repository github.
