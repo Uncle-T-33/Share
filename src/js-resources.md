@@ -19,7 +19,9 @@
 > One second to read GitHub code with VS Code.
 
 **[6. rough](https://github.com/rough-stuff/rough)**
-> Rough.js is a small (<9 kB) graphics library that lets you draw in a sketchy, hand-drawn-like, style. The library defines primitives to draw lines, curves, arcs, polygons, circles, and ellipses. It also supports drawing SVG paths. Rough.js works with both Canvas and SVG.
+> Rough.js is a small (<9 kB) graphics library that lets you draw in a sketchy, hand-drawn-like, style. The library defines primitives to draw lines, curves, arcs, polygons, circles, and ellipses. It also supports drawing SVG paths. 
+>
+> Rough.js works with both Canvas and SVG.
 
 **[7. sonic](https://github.com/valeriansaliou/sonic)**
 > Sonic is a fast, lightweight and schema-less search backend. It ingests search texts and identifier tuples that can then be queried against in a microsecond's time.
@@ -39,3 +41,10 @@
 **[12. geo-heatmap](https://github.com/luka1199/geo-heatmap)**
 > This is a script that generates an interactive geo heatmap from your Google location history data using Python, Folium and OpenStreetMap.
 
+**[13. chatwoot](https://github.com/chatwoot/chatwoot)**
+> Customer engagement suite, an open-source alternative to Intercom, Zendesk, Salesforce Service Cloud etc.
+
+**[14. flan](https://github.com/cloudflare/flan)**
+>Flan Scan is a lightweight network vulnerability scanner. With Flan Scan you can easily find open ports on your network, identify services and their version, and get a list of relevant CVEs affecting your network.
+>
+>Flan Scan is a wrapper over Nmap and the vulners script which turns Nmap into a full-fledged network vulnerability scanner. Flan Scan makes it easy to deploy Nmap locally within a container, push results to the cloud, and deploy the scanner on Kubernetes.
