@@ -1,5 +1,7 @@
 # Useful site.
 
+### Mix
+
 **[1. Thaycacac](https://thaycacac.github.io)**
 
 > Genaral document about programing.
@@ -7,6 +9,18 @@
 **[2. Eclipse Cheat Sheet](https://www.shortcutfoo.com/app/dojos/eclipse-win/cheatsheet)**
 
 > Eclipse Cheat Sheet.
+
+**[3. Pexels - Free Media](https://www.pexels.com/)**
+
+> Pexels provides high quality and completely free stock photos licensed under the Pexels license.
+
+**[4. ImgFlip](https://imgflip.com/)**
+
+> Create meme.
+
+**[5. 500 Data Structures and Algorithms](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)**
+
+> 500 Data Structures and Algorithms interview questions and their solutions.
 
 ### Deploy test
 
