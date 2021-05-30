@@ -22,6 +22,10 @@
 
 > 500 Data Structures and Algorithms interview questions and their solutions.
 
+**[6. 30 seconds of code](https://www.30secondsofcode.org/)**
+
+> Short code snippets for all your development needs.
+
 ### Deploy test
 
 **[1. Surge](https://surge.sh)**
