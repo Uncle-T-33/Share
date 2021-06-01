@@ -26,6 +26,10 @@
 
 > Short code snippets for all your development needs.
 
+**[7. Samatha Ming](https://www.samanthaming.com/)**
+
+> A Front End Developer who shares programming goodness with the community.
+
 ### Deploy test
 
 **[1. Surge](https://surge.sh)**
