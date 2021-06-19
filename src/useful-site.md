@@ -30,6 +30,10 @@
 
 > A Front End Developer who shares programming goodness with the community.
 
+**[8. Leaflet](https://leafletjs.com/)**
+
+> An open-source JavaScript library for mobile-friendly interactive maps.
+
 ### Deploy test
 
 **[1. Surge](https://surge.sh)**
