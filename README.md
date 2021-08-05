@@ -6,3 +6,6 @@
 
 **2. [site](src/useful-site.md)**
 > Some useful site.
+
+**3. [package npm](src/useful-npm.md)**
+> Some useful npm package.

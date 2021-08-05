@@ -34,6 +34,42 @@
 
 > An open-source JavaScript library for mobile-friendly interactive maps.
 
+### Design
+
+**[1. Design Daily](https://www.uidesigndaily.com/)**
+
+> Design inspiration.
+
+**[2. Free Website Templates](https://freewebsitetemplates.com/)**
+
+> Website templates are pre-designed websites, all you need to do is add your own personal content and you're ready to jump start your own website!
+>
+> You can customize the website templates any way you like, all these free website templates have been coded in CSS.
+>
+> And you don't need to link back to our website when using our website templates, because our web templates also come with freedom!
+
+**[3. Canva](https://www.uidesigndaily.com/)**
+
+> Empowering the world to design.
+>
+> Launched in 2013, Canva is an online design and publishing tool with a mission to empower everyone in the world to design anything and publish anywhere.
+
+**[4. VisualCV](https://www.visualcv.com/)**
+
+> Online CV Builder & Professional Resume Maker.
+
+**[4. Resume](https://resume.io/)**
+
+> ONLINE RESUME BUILDER.
+
+**[5. CVDesignR](https://cvdesignr.com/)**
+
+> Generate your creative and professional CV online for free with CVDesignR
+>
+> CVDesignR is a leading solution for generating creative, professional and multilingual CVs online.
+> 
+> Choose your favourite template from our fully-customizable selection, and generate your CV in PDF format ready to go!
+
 ### Deploy test
 
 **[1. Surge](https://surge.sh)**
