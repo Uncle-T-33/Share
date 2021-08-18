@@ -38,6 +38,14 @@
 
 > SECURITY TRAINING FOR DEVELOPERS.
 
+**[10. junookyo](https://www.junookyo.com/)**
+
+> Junookyo blogs.
+
+**[11. toidicodedao](https://toidicodedao.com/)**
+
+> Toidicodedao blogs.
+
 ### Resume - Curriculum Vitae
 
 **[1. Canva](https://www.uidesigndaily.com/)**
