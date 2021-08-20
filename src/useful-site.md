@@ -46,6 +46,11 @@
 
 > Toidicodedao blogs.
 
+**[12. Academid](https://github.com/academind)**
+
+> Official Academind GmbH Repository.
+
+
 ### Resume - Curriculum Vitae
 
 **[1. Canva](https://www.uidesigndaily.com/)**
