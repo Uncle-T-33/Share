@@ -93,3 +93,15 @@
 **[4. Heroicons](https://heroicons.com/)**
 
 > Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
+
+### Tool Design
+
+**[1. Diagram-net](https://www.diagrams.net/)**
+
+> Security-first diagramming for teams..
+
+**[2. Photopea](https://www.photopea.com/)**
+
+> Photopea.com is a free online tool for editing raster and vector graphics with support for PSD, AI, and Sketch files.
+>
+> Since Photopea is not fully open-source, this repository serves as a place for bug reports, feature requests, and general discussion..
