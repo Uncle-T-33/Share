@@ -18,6 +18,10 @@
 
 > Create meme.
 
+**[5. cuuduongthancong](https://cuuduongthancong.com/)**
+
+> Documentation in Information Technology.
+
 **[5. 500 Data Structures and Algorithms](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)**
 
 > 500 Data Structures and Algorithms interview questions and their solutions.
@@ -49,6 +53,10 @@
 **[12. Academid](https://github.com/academind)**
 
 > Official Academind GmbH Repository.
+
+**[13. 30secondsofcode](https://www.30secondsofcode.org/)**
+
+> Short code snippets for all your development needs.
 
 
 ### Resume - Curriculum Vitae

@@ -12,7 +12,7 @@
 
 **3. [package npm](src/useful-npm.md)**
 
-> Some useful npm package.
+> Some useful npm libraries.
 
 **4. [design](src/useful-design.md)**
 
