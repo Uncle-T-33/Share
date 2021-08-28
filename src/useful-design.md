@@ -36,6 +36,10 @@
 
 > Free Frontend.
 
+**[8. Code My UI](https://codemyui.com/)**
+
+> Web Design & UI Inspiration with Code Snippets.
+
 
 ### Font
 
