@@ -58,6 +58,12 @@
 
 > Short code snippets for all your development needs.
 
+**[14. Upmostly](https://upmostly.com/)**
+
+> Level Up Your React Skills
+>
+> Upmostly brings you original React and JavaScript tutorials every week.
+
 
 ### Resume - Curriculum Vitae
 
