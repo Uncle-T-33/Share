@@ -12,8 +12,14 @@
 >
 > Normalize.css makes browsers render all elements more consistently and in line with modern standards. It precisely targets only the styles that need normalizing.
 
-### Repo Git
-
-**[1. React-Icon](https://github.com/react-icons/react-icons)**
+**[3. React-Icon](https://github.com/react-icons/react-icons)**
 
 > Include popular icons in your React projects easily with react-icons, which utilizes ES6 imports that allows you to include only the icons that your project is using.
+
+**[4. React-Icon](https://github.com/react-icons/react-icons)**
+
+> Include popular icons in your React projects easily with react-icons, which utilizes ES6 imports that allows you to include only the icons that your project is using.
+
+**[4. Bulma](https://bulma.io/)**
+
+> Bulma is a free, open source framework that provides ready-to-use frontend components that you can easily combine to build responsive web interfaces.
