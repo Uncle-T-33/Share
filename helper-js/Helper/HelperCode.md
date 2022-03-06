@@ -92,7 +92,7 @@
 > let isEven = number % 2 ? true : false;
 > ```
 
-## [Assign default value with OR ||](#index)
+## [Assign default value with OR](#index)
 
 > ```javascript
 > // normal
@@ -109,7 +109,7 @@
 > let imagePath = getImagePath() || 'default.jpg';
 > ```
 
-## [AND operator &&](#index)
+## [AND operator](#index)
 
 > ```javascript
 > // normal
