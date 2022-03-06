@@ -1,0 +1,42 @@
+.card {
+  margin: 0 auto;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  width: 18em;
+}
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card .margin {
+  margin: 1em;
+}
+
+.card .space {
+  height: 1rem;
+  background: #fff;
+}
+
+.card .img {
+  display: block;
+  height: 16em;
+}
+
+.card .title {
+  height: 1em;
+  position: relative;
+}
+.card .title::after {
+  position: absolute;
+  right: 0;
+  content: "";
+  background: #fff;
+  height: 1rem;
+  width: 40%;
+}
+
+.card .detail {
+  height: 2em;
+}
