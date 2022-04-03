@@ -10,10 +10,6 @@
 
 > Some useful site.
 
-**3. [package npm](resources/useful-npm.md)**
-
-> Some useful npm libraries.
-
-**4. [design](resources/useful-design.md)**
+**3. [design](resources/useful-design.md)**
 
 > Some useful design.
