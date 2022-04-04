@@ -4,7 +4,7 @@
     - [Resume - Curriculum Vitae](#resume---curriculum-vitae)
     - [Deploy test](#deploy-test)
     - [Book](#book)
-    - [Package - NPM](#package---npm)
+    - [Open source project](#open-source-project)
 
 [Back To Index 🔝](#table-of-contents)
 ### Mix
@@ -30,6 +30,7 @@
 [Back To Index 🔝](#table-of-contents)
 
 ### Resume - Curriculum Vitae
+
 | Website                                 | Description                                                                                                                                                                                                                                                                                                 |
 | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Canva](https://www.uidesigndaily.com/) | Empowering the world to design. <br> Launched in 2013, Canva is an online design and publishing tool with a mission to empower everyone in the world to design anything and publish anywhere.                                                                                                               |
@@ -52,6 +53,7 @@
 [Back To Index 🔝](#table-of-contents)
 
 ### Book
+
 | Website                                                                                    | Description                                |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------ |
 | [Js-books](https://jsbooks.revolunet.com/)                                                 | The best free JavaScript resources.        |
@@ -60,7 +62,8 @@
 
 [Back To Index 🔝](#table-of-contents)
 
-### Package - NPM
+### Open source project
+
 | Website                                                      | Description                                                                                                                                                                                                                                                                                           |
 | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [sanitize-html](https://www.npmjs.com/package/sanitize-html) | Sanitize-html provides a simple HTML sanitizer with a clear API. <br> sanitize-html is tolerant. It is well suited for cleaning up HTML fragments such as those created by CKEditor and other rich text editors. It is especially handy for removing unwanted CSS when copying and pasting from Word. |
