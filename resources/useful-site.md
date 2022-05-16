@@ -46,14 +46,15 @@
 
 ### Deploy test
 
-| Website                                 | Description                                                                                                     |
-| --------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| [Surge](https://surge.sh)               | Static web publishing for Front-End Developers.                                                                 |
-| [Heroku](https://www.heroku.com)        | Heroku is a cloud platform that lets companies build, deliver, monitor and scale apps.                          |
-| [Netlify](https://www.netlify.com)      | An intuitive Git-based workflow and powerful serverless platform to build, deploy, and collaborate on web apps. |
-| [Vercel](https://vercel.com)            | Vercel combines the best developer experience with an obsessive focus on end-user performance.                  |
-| [UptimeRobot](https://uptimerobot.com/) | All you really care about monitored in one place.                                                               |
-| [GulpJs](https://gulpjs.com/)           | A toolkit to automate & enhance your workflow.                                                                  |
+| Website                                                   | Description                                                                                                     |
+| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| [Surge](https://surge.sh)                                 | Static web publishing for Front-End Developers.                                                                 |
+| [Heroku](https://www.heroku.com)                          | Heroku is a cloud platform that lets companies build, deliver, monitor and scale apps.                          |
+| [Netlify](https://www.netlify.com)                        | An intuitive Git-based workflow and powerful serverless platform to build, deploy, and collaborate on web apps. |
+| [Vercel](https://vercel.com)                              | Vercel combines the best developer experience with an obsessive focus on end-user performance.                  |
+| [Uptime Robot](https://uptimerobot.com/)                  | All you really care about monitored in one place.                                                               |
+| [GulpJs](https://gulpjs.com/)                             | A toolkit to automate & enhance your workflow.                                                                  |
+| [Airbnb JavaScript](https://github.com/airbnb/javascript) | A mostly reasonable approach to JavaScript.                                                                     |
 
 [Back To Index 🔝](#table-of-contents)
 
@@ -93,3 +94,5 @@
 | [Socket.IO](https://socket.io/)                              | Bidirectional and low-latency communication for every platform.                                                                                                                                                                                                                                       |
 | [Imba](https://github.com/imba)                              | Imba is a friendly full-stack programming language for the web that compiles to performant JavaScript. It has language-level support for defining, extending, subclassing, instantiating and rendering DOM nodes.                                                                                     |
 | [youtube-dl](https://github.com/ytdl-org/youtube-dl)         | download videos from youtube.com or other video platforms.                                                                                                                                                                                                                                            |
+| [Microsoft](https://github.com/microsoft)                    | Open source projects and samples from Microsoft.                                                                                                                                                                                                                                                      |
+| [LibreOffice](https://www.libreoffice.org/)                  | LibreOffice is a free and powerful office suite, and a successor to OpenOffice.org (commonly known as OpenOffice).                                                                                                                                                                                    |
