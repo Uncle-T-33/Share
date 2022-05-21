@@ -135,8 +135,7 @@
 | [javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms)                                           | Source code of Learning JavaScript Data Structures and Algorithms book, third edition.             |
 | [javascript-algorithms](https://github.com/mgechev/javascript-algorithms)                                                                        | This repository contains JavaScript implementations of famous computer science algorithms.         |
 | [The Algorithms - JavaScript](https://github.com/TheAlgorithms/Javascript)                                                                       | All algorithms implemented in JavaScript (for educational purposes only)                           |
-| [dsa.js-data-structures-algorithms-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)                    |
-| Data Structures and Algorithms in JavaScript                                                                                                     |
+| [dsa.js-data-structures-algorithms-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)                    | Data Structures and Algorithms in JavaScript                                                       |
 
 [Back To Index 🔝](#table-of-contents)
 
