@@ -1,6 +1,6 @@
 <h1> Knowledge for everyone </h1>
 
->Humans have a desire for truth or they have a desire to what they know is the truth. In other words, what the truth is exactly second to that. 🎴
+> Humans have a desire for truth or they have a desire to what they know is the truth. In other words, what the truth is exactly second to that. Be careful of what is the truth and what is lie. In other words, always doubt yourself. 🎴
 
 ### Resource
 
