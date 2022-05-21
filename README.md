@@ -1,15 +1,14 @@
-# Knowledge for everyone
+<h1> Knowledge for everyone </h1>
 
-## Contents
+>Humans have a desire for truth or they have a desire to what they know is the truth. In other words, what the truth is exactly second to that. 🎴
 
-**1. [repo github](resources/useful-github.md)**
+### Resource
 
-> Some useful repository github.
+**1. [programing](resources/useful-site.md)**
 
-**2. [site](resources/useful-site.md)**
+**2. [site-design](resources/useful-design.md)**
 
-> Some useful site.
+### Document
 
-**3. [design](resources/useful-design.md)**
+**1. [ui-ux-design-vi](document/ui-ux-design-vi.md)**
 
-> Some useful design.
