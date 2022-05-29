@@ -222,6 +222,8 @@
 | [Ant Design](https://github.com/ant-design/ant-design)         | An enterprise-class UI design language and React UI library.                                                                                                                                                           |
 | [UnderscoreJs](https://github.com/jashkenas/underscore)        | Underscore.js is a utility-belt library for JavaScript that provides support for the usual functional suspects (each, map, reduce, filter...) without extending any core JavaScript objects.                           |
 | [lodash](https://github.com/lodash/lodash)                     | A modern JavaScript utility library delivering modularity, performance & extras.                                                                                                                                       |
+| [Chakra UI](https://github.com/chakra-ui/chakra-ui)            | Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications                                                                           |
+| [Chart.js](https://github.com/chartjs/Chart.js)                | Simple yet flexible JavaScript charting for designers & developers                                                                                                                                                     |
 
 [Back To Index 🔝](#table-of-contents)
 
