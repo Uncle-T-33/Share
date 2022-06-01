@@ -1,21 +1,23 @@
 # Index
 
-- [Design Inspiration](#design-inspiration)
-- [Font](#font)
-- [Images - Illustrations](#images-illustrations)
-- [Icons](#icons)
-- [Online Design Tools](#online-design-tools)
-- [Downloadable Design Software](#downloadable-design-software)
-- [Design Systems and Style Guides](#design-systems-and-style-guides)
-- [Image Compression](#image-compression)
-- [HTML & CSS Templates](#html-css-templates)
-- [Product & Image Mockups](#product-image-mockups)
-- [Vectors & Clip Art](#vectors-clip-art)
-- [UI Graphics](#ui-graphics)
-- [Colors](#colors)
-- [Logos](#logos)
-- [Favicons](#favicons)
-- [Icon Fonts](#icon-fonts)
+- [Index](#index)
+  - [Design Inspiration](#design-inspiration)
+  - [Font](#font)
+  - [Color](#color)
+  - [Images, Illustrations](#images-illustrations)
+  - [Icons](#icons)
+  - [Online Design Tools](#online-design-tools)
+  - [Downloadable Design Software](#downloadable-design-software)
+  - [Design Systems and Style Guides](#design-systems-and-style-guides)
+  - [Image Compression](#image-compression)
+  - [HTML, CSS Templates](#html-css-templates)
+  - [Product, Image Mockups](#product-image-mockups)
+  - [Vectors, Clip Art](#vectors-clip-art)
+  - [UI Graphics](#ui-graphics)
+  - [Colors](#colors)
+  - [Logos](#logos)
+  - [Favicons](#favicons)
+  - [Icon Fonts](#icon-fonts)
 
 <br>
 
@@ -23,7 +25,7 @@
 
 <br>
 
-### [Back To Index 🔝](#index)
+ [Back To Index 🔝](#index)
 
 ## Design Inspiration
 
@@ -36,7 +38,7 @@ Here are some websites to get inspiration for design and UI
 |[Awwwards](https://www.awwwards.com/) | The awards of design, creativity and innovation on the internet. |
 |[Free Frontend](https://freefrontend.com/) | Free Frontend. |
 |[Code My UI](https://codemyui.com/) | Web Design & UI Inspiration with Code Snippets. |
-|[Behance](https://www.behance.net/)| Design projects featured by different creators|
+|[Behance](https://www.behance.net/)| Best of Behance. Projects featured today by our curators|
 |[Dribbble](https://dribbble.com/)| Design projects featured by different creators|
 |[Landingfolio](https://landingfolio.com/)| Landingfolio features the best landing page inspiration, templates, resources and examples on the web.|
 |[Codewell](https://www.codewell.cc/)| Practice your HTML, CSS, and Javascript skills on real world design templates|
@@ -74,7 +76,7 @@ Here are some websites to get inspiration for design and UI
 |[CSS buttons](https://getcssscan.com/css-buttons-examples)| 84 Beautiful CSS buttons examples.|
 |[CSS box-shadow](https://getcssscan.com/css-box-shadow-examples)| 91 Beautiful CSS box-shadow examples.|
 
-### [Back To Index 🔝](#index)
+ [Back To Index 🔝](#index)
 
 ## Font
 
@@ -117,7 +119,7 @@ Websites that offer free fonts as well as font-based tools
 
 
 
-### [Back To Index 🔝](#index)
+ [Back To Index 🔝](#index)
 
 ## Color
 
@@ -129,7 +131,7 @@ Websites that offer free fonts as well as font-based tools
 |[Coolors](https://coolors.co/)|The super fast color schemes generator!.|
 
 
-### [Back To Index 🔝](#index)
+ [Back To Index 🔝](#index)
 
 ## Images, Illustrations
 
@@ -140,7 +142,7 @@ Websites that offer free fonts as well as font-based tools
 |[Drawkit](https://www.drawkit.io/)|Beautiful, free illustrations. Updated weekly. <br>Hand-drawn vector illustration and icon resources, perfect for your next project.|
 |[unDraw](https://undraw.co/)|Open-source illustrations for any idea you can imagine and create.<br>A constantly updated design project with beautiful SVG images that you can use completely free and without attribution.|
 
-### [Back To Index 🔝](#index)
+ [Back To Index 🔝](#index)
 
 ## Icons
 
@@ -200,7 +202,7 @@ Resources for Icons including png, svg and more
 |[Iconspedia](https://www.iconspedia.com/)| Iconspedia is a website that contains a large collection of high quality free icons.|
 |[iconhub](https://iconhub.io/)| Just practical stunning icons for everyone|
 
-### [Back To Index 🔝](#index)
+ [Back To Index 🔝](#index)
 
 ## Online Design Tools
 
@@ -263,7 +265,7 @@ All kinds of online tools for design, from photo editors to wireframing, and mor
 |[Glassmorphism](https://glassmorphism.com/)| An incredible online tool for generating quick glassmorphic UI in CSS code snippets.|
 |[TableConvert](https://tableconvert.com/)| Table Convert Online is a web-based tool to converts Excel, URL, HTML, Markdown table and CSV to Markdown table, CSV/TSV, JSON, XML, YAML, insert SQL, HTML, Excel and LaTeX table.|
 
-### [Back To Index 🔝](#index)
+ [Back To Index 🔝](#index)
 
 ## Downloadable Design Software
 
@@ -287,7 +289,7 @@ Free software for UI, photo, 3d modeling, etc.
 |[Inpixio photo Editor](https://www.inpixio.com/free-photo-editor)| Free Photo Editor: For windows only|
 |[Colorpicker](https://colorpicker.fr/)| Open Source colors software: Retrieve, manipulate and store your colors easily!|
 
-### [Back To Index 🔝](#index)
+ [Back To Index 🔝](#index)
 
 ## Design Systems and Style Guides
 
@@ -332,7 +334,7 @@ Design systems, style guides, toolkits, docs. Some of these are design guides fo
 |[Humane By Design](https://humanebydesign.com/)| A resource that provides guidance for designing ethically humane digital products through patterns focused on user well-being.|
 |[Pr1mer Guidelines](https://guidelines.pr1mer.tech)| An open source set of very general guidelines, inspired by Human Interface. Created and maintained by Pr1mer Tech|
 
-### [Back To Index 🔝](#index)
+ [Back To Index 🔝](#index)
 
 ## Image Compression
 
@@ -359,7 +361,7 @@ Websites that allow you to compress large images
 |[Verexif](https://www.verexif.com/en/)| Remove meta tags in image in order to reduce image size and increase privacy security|
 |[Vecta Nano](https://vecta.io/nano)| Uses lossless compression to compress inefficient SVG codes by removing unnecessary data. (Free & Paid)|
 
-### [Back To Index 🔝](#index)
+ [Back To Index 🔝](#index)
 
 ## HTML, CSS Templates
 
@@ -393,7 +395,7 @@ Websites that offer free beautiful website templates and themes of all types
 |[All-Free-Download](https://all-free-download.com/free-website-templates/free-html-css-templates.html)| Download free-website-templates|
 |[mashup-template](http://www.mashup-template.com/templates.html)| HTML5/CSS3 Free Templates|
 
-### [Back To Index 🔝](#index)
+ [Back To Index 🔝](#index)
 
 ## Product, Image Mockups
 
@@ -418,7 +420,7 @@ Create mockups of devices and other products
 |[MockupBro](https://mockupbro.com/)| Create product mockups with online mockup generator! Just choose a mockup, upload your design and download your image without a watermark.|
 |[Animockup](https://animockup.com/)| Create animated mockups in the browser.|
 
-### [Back To Index 🔝](#index)
+ [Back To Index 🔝](#index)
 
 ## Vectors, Clip Art
 
@@ -452,7 +454,7 @@ Free vectors, clipart, illustrations, patterns and more
 |[Tabbied](https://tabbied.com/)| Create and customize minimally generated patterns/artwork to use for background images, print and other projects.|
 |[Haikei](https://app.haikei.app/)| An awesome multishape web app.|
 
-### [Back To Index 🔝](#index)
+ [Back To Index 🔝](#index)
 
 ## UI Graphics
 
@@ -501,7 +503,7 @@ Websites and resources with modern UI components in different formats such as PS
 |[Pattern Monster](https://pattern.monster/)| A simple online pattern generator to create repeatable SVG patterns|
 |[Exemplar](https://themeselection.com/products/exemplar-free-avatar-library-for-figma-and-sketch/)| Free Avatar Library for Figma and Sketch|
 
-### [Back To Index 🔝](#index)
+ [Back To Index 🔝](#index)
 
 ## Colors
 
@@ -567,7 +569,7 @@ Websites and resources that help with choices related to colors
 |[Duo](https://duo.alexpate.uk/)| Duo is a collection of colour combinations that I’ve curated from personal projects or that I’ve come across on the web.|
 |[Lospec Palette List](https://lospec.com/palette-list)| The Lospec Palette List is a database of palettes for pixel art.|
 
-### [Back To Index 🔝](#index)
+ [Back To Index 🔝](#index)
 
 ## Logos
 
@@ -585,7 +587,7 @@ Resources for Logos
 |[Logo Maker](https://logomakr.com/)| Create custom logos|
 |[Free Logo Maker](https://www.namecheap.com/logo-maker/)| Fast, All-in-One Logo Generator|
 
-### [Back To Index 🔝](#index)
+ [Back To Index 🔝](#index)
 
 ## Favicons
 
@@ -599,7 +601,7 @@ Resources for Favicons
 |[RealFaviconGenerator](https://realfavicongenerator.net/)| Generate icons for all platforms (Windows, iOS, Android)|
 |[FontIcon](https://gauger.io/fonticon/)| Generate favicons and images from Font Awesome icons|
 
-### [Back To Index 🔝](#index)
+ [Back To Index 🔝](#index)
 
 ## Icon Fonts
 

@@ -4,6 +4,7 @@
 - [Table of contents.](#table-of-contents)
   - [Structure 1](#structure-1)
   - [Conventions 1](#conventions-1)
+  - [Redux structure](#redux-structure)
 
 [Back To Index 🔝](#table-of-contents)
 
@@ -95,3 +96,27 @@
 - Absolute paths are used when importing something that is outside of the folder in which we are using the import (ex: importing assets or importing a service inside a component)
 - Relative paths are used when importing something that is within the same folder (ex: importing a component’s styles or importing a child component)
 - When importing global styles inside other sass files use absolute paths: @import '~global/styles'
+
+## Redux structure
+An example folder structure might look something like:
+```
+/src
+    - index.tsx: Entry point file that renders the React component tree
+    /app
+        - store.ts: store setup
+        - rootReducer.ts: root reducer (optional)
+        - App.tsx: root React component
+    /common: hooks, generic components, utils, etc
+    /features: contains all "feature folders"
+        - todos: a single feature folder
+            - todosSlice.ts: Redux reducer logic and associated actions
+            - Todos.tsx: a React component
+ ```
+
+>/app contains app-wide setup and layout that depends on all the other folders.
+>
+>/common contains truly generic and reusable utilities and components.
+>
+>/features has folders that contain all functionality related to a specific feature.
+>
+>In this example, todosSlice.ts is a "duck"-style file that contains a call to RTK's createSlice() function, and exports the slice reducer and action creators.

@@ -119,6 +119,7 @@
 | [Pexels - Free Media](https://www.pexels.com/)            | Pexels provides high quality and completely free stock photos licensed under the Pexels license. |
 | [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs for use in software and web development.                          |
 | [faker.js](https://github.com/faker-js/faker)             | Generate massive amounts of fake data in the browser and node.js                                 |
+| [rapidapi](https://rapidapi.com/hub)                      | Discover and connect to thousands of APIs                                                        |
 
 [Back To Index 🔝](#table-of-contents)
 
@@ -163,6 +164,8 @@
 | [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)         | Software engineering principles, from Robert C. Martin's book Clean Code, adapted for JavaScript. This is not a style guide. It's a guide to producing readable, reusable, and refactorable software in JavaScript. |
 | [prettier](https://github.com/prettier/prettier)                                        | Prettier is an opinionated code formatter.                                                                                                                                                                          |
 | [CRACO](https://github.com/gsoft-inc/craco)                                             | Create React App Configuration Override is an easy and comprehensible configuration layer for create-react-app.                                                                                                     |
+| [Immer](https://immerjs.github.io/immer/)                                               | Immer (German for: always) is a tiny package that allows you to work with immutable state in a more convenient way.                                                                                                 |
+| [Ducks](https://github.com/erikras/ducks-modular-redux)                                 | Redux Reducer Bundles.                                                                                                                                                                                              |
 
 [Back To Index 🔝](#table-of-contents)
 
@@ -224,6 +227,7 @@
 | [lodash](https://github.com/lodash/lodash)                     | A modern JavaScript utility library delivering modularity, performance & extras.                                                                                                                                       |
 | [Chakra UI](https://github.com/chakra-ui/chakra-ui)            | Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications                                                                           |
 | [Chart.js](https://github.com/chartjs/Chart.js)                | Simple yet flexible JavaScript charting for designers & developers                                                                                                                                                     |
+| [Semantic UI](https://semantic-ui.com/)                        | User Interface is the language of the web                                                                                                                                                                              |
 
 [Back To Index 🔝](#table-of-contents)
 
