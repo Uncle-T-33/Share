@@ -137,6 +137,7 @@
 | [javascript-algorithms](https://github.com/mgechev/javascript-algorithms)                                                                        | This repository contains JavaScript implementations of famous computer science algorithms.         |
 | [The Algorithms - JavaScript](https://github.com/TheAlgorithms/Javascript)                                                                       | All algorithms implemented in JavaScript (for educational purposes only)                           |
 | [dsa.js-data-structures-algorithms-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)                    | Data Structures and Algorithms in JavaScript                                                       |
+| [Copy & Paste CSS](https://copy-paste-css.com/)                                                                                                  | Click on an element to copy the CSS!                                                               |
 
 [Back To Index 🔝](#table-of-contents)
 
@@ -149,7 +150,6 @@
 | [Netlify](https://www.netlify.com)                                                      | An intuitive Git-based workflow and powerful serverless platform to build, deploy, and collaborate on web apps.                                                                                                     |
 | [Vercel](https://vercel.com)                                                            | Vercel combines the best developer experience with an obsessive focus on end-user performance.                                                                                                                      |
 | [Uptime Robot](https://uptimerobot.com/)                                                | All you really care about monitored in one place.                                                                                                                                                                   |
-| [GulpJs](https://gulpjs.com/)                                                           | A toolkit to automate & enhance your workflow.                                                                                                                                                                      |
 | [Airbnb JavaScript](https://github.com/airbnb/javascript)                               | A mostly reasonable approach to JavaScript.                                                                                                                                                                         |
 | [sanitize-html](https://www.npmjs.com/package/sanitize-html)                            | Sanitize-html provides a simple HTML sanitizer with a clear API.                                                                                                                                                    |
 | [Bulma](https://bulma.io/)                                                              | Bulma is a free, open source framework that provides ready-to-use frontend components that you can easily combine to build responsive web interfaces.                                                               |
@@ -228,6 +228,8 @@
 | [Chakra UI](https://github.com/chakra-ui/chakra-ui)            | Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications                                                                           |
 | [Chart.js](https://github.com/chartjs/Chart.js)                | Simple yet flexible JavaScript charting for designers & developers                                                                                                                                                     |
 | [Semantic UI](https://semantic-ui.com/)                        | User Interface is the language of the web                                                                                                                                                                              |
+| [Day Js](https://day.js.org/)                                  | Fast 2kB alternative to Moment.js with the same modern API                                                                                                                                                             |
+| [Sheet Js](https://sheetjs.com/)                               | Spreadsheets simplified. Read, edit, and export spreadsheets. Works in web browsers and servers                                                                                                                        |
 
 [Back To Index 🔝](#table-of-contents)
 

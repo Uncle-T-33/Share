@@ -394,6 +394,7 @@ Websites that offer free beautiful website templates and themes of all types
 |[W3css_templates](https://www.w3schools.com/w3css/w3css_templates.asp)| Some responsive W3.CSS website templates for you to use.|
 |[All-Free-Download](https://all-free-download.com/free-website-templates/free-html-css-templates.html)| Download free-website-templates|
 |[mashup-template](http://www.mashup-template.com/templates.html)| HTML5/CSS3 Free Templates|
+|[DesignSeer](https://designseer.com/)| At DesignSeer, we try to provide you with the best resources(themes, templates or design freebies) that would positively impact your website business.|
 
  [Back To Index 🔝](#index)
 
@@ -586,6 +587,7 @@ Resources for Logos
 |[World Vector Logo](https://worldvectorlogo.com/)| Download vector logos of brands you love|
 |[Logo Maker](https://logomakr.com/)| Create custom logos|
 |[Free Logo Maker](https://www.namecheap.com/logo-maker/)| Fast, All-in-One Logo Generator|
+|[Free Logo Design](https://www.freelogodesign.org/)| Fast, All-in-One Logo Generator|
 
  [Back To Index 🔝](#index)
 
